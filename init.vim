@@ -3,7 +3,7 @@ set showmode
 set number relativenumber
 highlight linenr ctermfg=darkgrey
 set clipboard=unnamed
-set scrolloff=100
+"set scrolloff=100
 
 inoremap kj <esc>
 vnoremap kj <esc>
