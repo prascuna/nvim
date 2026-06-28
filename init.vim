@@ -19,8 +19,3 @@ nnoremap L $
 vnoremap L $
 onoremap L $
 nnoremap Y y$
-
-call plug#begin()
-Plug 'easymotion/vim-easymotion'
-Plug 'cespare/vim-toml'
-call plug#end()
